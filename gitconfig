@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maxime.bizet70@gmail.com
+	name = maxime bizet
